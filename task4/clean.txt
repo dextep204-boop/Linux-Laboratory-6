@@ -1,0 +1,6 @@
+Hello Linux!
+This is my laboratory work.
+I am learning C++.
+Linux is an operating system.
+Programming is interesting.
+End of file.

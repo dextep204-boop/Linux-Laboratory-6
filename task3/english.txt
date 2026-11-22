@@ -1,0 +1,60 @@
+
+1. I usually wake up at seven o'clock.
+   Я зазвичай прокидаюся о сьомій годині.
+
+2. My family likes spending time together.
+   Моя сім'я любить проводити час разом.
+
+3. Learning English helps me communicate with people.
+   Вивчення англійської допомагає мені спілкуватися з людьми.
+
+4. Yesterday I visited my best friend.
+   Учора я відвідала свою найкращу подругу.
+
+5. I enjoy reading interesting books.
+   Мені подобається читати цікаві книги.
+
+6. We often go for a walk in the park.
+   Ми часто гуляємо в парку.
+
+7. My favourite subject is computer science.
+   Мій улюблений предмет — інформатика.
+
+8. I would like to travel around Europe.
+   Я хотіла б подорожувати Європою.
+
+9. Technology makes our lives easier.
+   Технології роблять наше життя простішим.
+
+10. I always try to finish my homework on time.
+    Я завжди намагаюся виконувати домашні завдання вчасно.
+
+11. Last summer we went to the mountains.
+    Минулого літа ми їздили в гори.
+
+12. Healthy food is important for everyone.
+    Здорова їжа важлива для кожного.
+
+13. My friends and I enjoy watching movies.
+    Ми з друзями любимо дивитися фільми.
+
+14. I have been studying English for several years.
+    Я вивчаю англійську вже кілька років.
+
+15. The weather was beautiful yesterday.
+    Учора була чудова погода.
+
+16. I want to improve my programming skills.
+    Я хочу покращити свої навички програмування.
+
+17. Every morning I drink a cup of tea.
+    Щоранку я випиваю чашку чаю.
+
+18. Our teacher explains difficult topics clearly.
+    Наш викладач зрозуміло пояснює складні теми.
+
+19. I believe education is important for the future.
+    Я вважаю, що освіта важлива для майбутнього.
+
+20. In my free time I listen to music.
+    У вільний час я слухаю музику.
